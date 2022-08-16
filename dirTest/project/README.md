@@ -27,3 +27,4 @@ for details.
 
 Se clono el repositorio remoto y se editaron los archivos wcat.c y readme.md para luego realizar los respectivos commits
 ![My Image](Home/evaluacion-1-eddd-mari/patito.jpg)
+[Wikipedia](https://es.wikipedia.org/wiki/Pato)
