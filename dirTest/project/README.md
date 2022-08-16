@@ -25,5 +25,7 @@ for details.
 
 # EVALUACIÓN 1
 
+Se clono el repositorio remoto y se editaron los archivos wcat.c y readme.md para luego realizar los respectivos commits 
+
 
 
