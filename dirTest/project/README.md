@@ -26,5 +26,9 @@ for details.
 # EVALUACIÓN 1
 
 Se clono el repositorio remoto y se editaron los archivos wcat.c y readme.md para luego realizar los respectivos commits
-![My Image](Home/evaluacion-1-eddd-mari/patito.jpg)
+![My Image](https://github.com/hacUPB/evaluacion-1-eddd-mari/blob/main/patito.jpg)
 [Wikipedia](https://es.wikipedia.org/wiki/Pato)
+1. git clone xxxxx
+2. git add wcat.c
+3. git commit -m "xxx"
+4. git push 
